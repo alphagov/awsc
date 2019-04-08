@@ -7,7 +7,7 @@ import (
 
 	"golang.org/x/crypto/ssh/terminal"
 
-	"github.com/opsidian/awsc/cli/command"
+	"github.com/alphagov/awsc/cli/command"
 )
 
 func main() {

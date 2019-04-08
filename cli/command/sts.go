@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/aws/aws-sdk-go/aws"
-	"github.com/opsidian/awsc/awsc/sts"
+	"github.com/alphagov/awsc/awsc/sts"
 	"github.com/spf13/cobra"
 )
 

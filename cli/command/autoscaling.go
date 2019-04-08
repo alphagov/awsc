@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/aws/aws-sdk-go/aws"
-	"github.com/opsidian/awsc/awsc/autoscaling"
+	"github.com/alphagov/awsc/awsc/autoscaling"
 	"github.com/spf13/cobra"
 )
 

@@ -3,7 +3,7 @@ package command
 import (
 	"fmt"
 
-	"github.com/opsidian/awsc/awsc"
+	"github.com/alphagov/awsc/awsc"
 	"github.com/spf13/cobra"
 )
 
