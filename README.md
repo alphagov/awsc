@@ -1,12 +1,10 @@
 # AWS Companion (awsc)
 
-[![CircleCI](https://circleci.com/gh/opsidian/awsc.svg?style=shield&circle-token=6773a3338d4e05185402e3a67b3a732a27031373)](https://circleci.com/gh/opsidian/awsc) [![GoDoc](https://godoc.org/github.com/opsidian/awsc?status.svg)](https://godoc.org/github.com/opsidian/awsc) [![Latest release](https://img.shields.io/github/release/opsidian/awsc.svg)](https://github.com/opsidian/awsc/releases/latest)
-
 The AWS Companion app contains useful additions to the AWS cli.
 
 ## How to install
 
-Go to https://github.com/opsidian/awsc/releases and download the appropriate binary for your system.
+Go to https://github.com/alphagov/awsc/releases and download the appropriate binary for your system.
 Rename it to ```awsc``` and move it somewhere on your PATH.
 
 ## Available commands

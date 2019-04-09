@@ -10,7 +10,7 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/opsidian/awsc/awsc"
+	"github.com/alphagov/awsc/awsc"
 	"github.com/pquerna/otp/totp"
 )
 
